@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Twitter-Clone
+This is a Twitter clone made with React.js and Firebase hosting.
+
+## Live Demo
+https://lyfe-social.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
